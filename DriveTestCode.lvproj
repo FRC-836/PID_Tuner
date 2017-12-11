@@ -2,7 +2,7 @@
 <Project Type="Project" LVVersion="16008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
-	<Property Name="varPersistentID:{0F87507E-1D0C-4BA4-BB54-53F711E2C624}" Type="Ref">/Target/Untitled Library 4.lvlib/Drive DevRef Out</Property>
+	<Property Name="varPersistentID:{0E1D0E72-0BC6-4F24-B81F-F218895E2D4F}" Type="Ref">/Target/Untitled Library 4.lvlib/Drive DevRef Out</Property>
 	<Property Name="varPersistentID:{13F0C67D-D9FE-4E53-9EA8-3027BCD34D9A}" Type="Ref">/Target/Untitled Library 2.lvlib/Encoder Setpoint</Property>
 	<Property Name="varPersistentID:{1791A3AF-7D55-42FC-A43C-B12221E53807}" Type="Ref">/Target/Untitled Library 2.lvlib/Encoder Process</Property>
 	<Property Name="varPersistentID:{CBAFE37C-90CE-4321-A209-2A6D00C7F17E}" Type="Ref">/Target/Untitled Library 2.lvlib/Yaw Process</Property>
@@ -143,7 +143,6 @@ AddOutputFilter chunkFilter
 				<Item Name="ApproachCameraParam.ctl" Type="VI" URL="/&lt;userlib&gt;/836-libraries/Drive/Drive_Code_V2/Drive_Code_Support/Command_Sends/CommandTypeInfo/ApproachCameraParam.ctl"/>
 				<Item Name="Camera_Cluster.ctl" Type="VI" URL="/&lt;userlib&gt;/836-libraries/Drive/Drive_Code_V2/Drive_Code_Support/SensorTypedefs/Camera_Cluster.ctl"/>
 				<Item Name="CheesyDriveParam.ctl" Type="VI" URL="/&lt;userlib&gt;/836-libraries/Drive/Drive_Code_V2/Drive_Code_Support/Command_Sends/CommandTypeInfo/CheesyDriveParam.ctl"/>
-				<Item Name="CmdFinishedTypes.ctl" Type="VI" URL="/&lt;userlib&gt;/836-libraries/Drive/Drive_Code_V2/Drive_Code_Support/CmdFinishedTypes.ctl"/>
 				<Item Name="Command_Tolerance_Info.ctl" Type="VI" URL="/&lt;userlib&gt;/836-libraries/Drive/Drive_Code_V2/Drive_Code_Support/Command_Sends/Command_Tolerance_Info.ctl"/>
 				<Item Name="Create_Drive_Train_Base.vi" Type="VI" URL="/&lt;userlib&gt;/836-libraries/Drive/Drive_Code_V2/Drive_Code_Support/DriveTrains/Create_Drive_Train_Base.vi"/>
 				<Item Name="CreateDriveTrain.vi" Type="VI" URL="/&lt;userlib&gt;/836-libraries/Drive/Drive_Code_V2/CreateDriveTrain.vi"/>
@@ -180,7 +179,6 @@ AddOutputFilter chunkFilter
 				<Item Name="DrivePidRange.ctl" Type="VI" URL="/&lt;userlib&gt;/836-libraries/Drive/Drive_Code_V2/Drive_Code_Support/PidClusters/DrivePidRange.ctl"/>
 				<Item Name="DriveToPidRange.vi" Type="VI" URL="/&lt;userlib&gt;/836-libraries/Drive/Drive_Code_V2/Drive_Code_Support/DriveToPidRange.vi"/>
 				<Item Name="FollowCameraparam.ctl" Type="VI" URL="/&lt;userlib&gt;/836-libraries/Drive/Drive_Code_V2/Drive_Code_Support/Command_Sends/CommandTypeInfo/FollowCameraparam.ctl"/>
-				<Item Name="GetCommandFinished.vi" Type="VI" URL="/&lt;userlib&gt;/836-libraries/Drive/Drive_Code_V2/GetCommandFinished.vi"/>
 				<Item Name="hmi_cheesy_drive.vi" Type="VI" URL="/&lt;userlib&gt;/836-libraries/Drive/hmi_cheesy_drive.vi"/>
 				<Item Name="HoldPositionParam.ctl" Type="VI" URL="/&lt;userlib&gt;/836-libraries/Drive/Drive_Code_V2/Drive_Code_Support/Command_Sends/CommandTypeInfo/HoldPositionParam.ctl"/>
 				<Item Name="HoldYawParam.ctl" Type="VI" URL="/&lt;userlib&gt;/836-libraries/Drive/Drive_Code_V2/Drive_Code_Support/Command_Sends/CommandTypeInfo/HoldYawParam.ctl"/>
