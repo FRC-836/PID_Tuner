@@ -130,8 +130,6 @@ AddOutputFilter chunkFilter
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
 		<Item Name="Command_Tolerances.ctl" Type="VI" URL="/&lt;userlib&gt;/836-libraries/Drive/Drive_Code_V2/Drive_Code_Support/Command_Sends/Command_Tolerances.ctl"/>
-		<Item Name="Control 2.ctl" Type="VI" URL="/&lt;userlib&gt;/836-libraries/Drive/Drive_Code_V2/Drive_Code_Support/Command_Sends/Control 2.ctl"/>
-		<Item Name="Drive_Cmd_Update_Tolerance.vi" Type="VI" URL="/&lt;userlib&gt;/836-libraries/Drive/Drive_Code_V2/Drive_Code_Support/Command_Sends/Drive_Cmd_Update_Tolerance.vi"/>
 		<Item Name="Drive_Loop_Get_PID_Inputs.vi" Type="VI" URL="/&lt;userlib&gt;/836-libraries/Drive/Drive_Code_V2/Drive_Loop_Get_PID_Inputs.vi"/>
 		<Item Name="Drive_Loop_Update_Tolerances.vi" Type="VI" URL="/&lt;userlib&gt;/836-libraries/Drive/Drive_Code_V2/Drive_Loop_Update_Tolerances.vi"/>
 		<Item Name="PidInversions.ctl" Type="VI" URL="/&lt;userlib&gt;/836-libraries/Drive/Drive_Code_V2/Drive_Code_Support/PidClusters/PidInversions.ctl"/>
